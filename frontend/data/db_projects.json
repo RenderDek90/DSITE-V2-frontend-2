@@ -1,0 +1,179 @@
+{
+  "projects": {
+    "skills": [
+      {
+        "id": 9990123,
+        "name": "HTML",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990124,
+        "name": "CSS",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990125,
+        "name": "Javascript",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990127,
+        "name": "Jquery",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990128,
+        "name": "AJAX",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990130,
+        "name": "Bootstrap",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990131,
+        "name": "Tailwind",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990132,
+        "name": "Laravel",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990133,
+        "name": "ReactJS",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990134,
+        "name": "Flutter",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990135,
+        "name": "Python",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990151,
+        "name": "C/C++",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990136,
+        "name": "Android Studio",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990150,
+        "name": "Git",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990137,
+        "name": "Figma",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990147,
+        "name": "Canva",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990138,
+        "name": "Adobe Photoshop",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990139,
+        "name": "Adobe Illustrator",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990140,
+        "name": "Adobe Premiere Pro",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990141,
+        "name": "Adobe After Effects",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      },
+      {
+        "id": 9990142,
+        "name": "3D Blender",
+        "url": "https://3.bp.blogspot.com/-RaQkWMDZh2M/VxNsYbqan6I/AAAAAAAACSQ/vNUFQVEmiaAgQTgnx3WUY7U7Tq5G9gvKgCLcB/s1600/html-editor-.png",
+        "alt": "html_logo"
+      }
+    ],
+    "all_projects": [
+      {
+        "id": 20123,
+        "title": "Project 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "url_project": "https://www.google.com",
+        "created_at": "8/18/2023",
+        "updated_at": null,
+        "deleted_at": null
+      },
+      {
+        "id": 1293012,
+        "title": "Project 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "url_project": "https://www.google.com",
+        "created_at": "8/18/2023",
+        "updated_at": null,
+        "deleted_at": null
+      },
+      {
+        "id": 23422,
+        "title": "Project 3",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "url_project": "https://www.google.com",
+        "created_at": "8/18/2023",
+        "updated_at": null,
+        "deleted_at": null
+      },
+      {
+        "id": 223463,
+        "title": "Project 4",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "url_project": "https://www.google.com",
+        "created_at": "8/18/2023",
+        "updated_at": null,
+        "deleted_at": null
+      },
+      {
+        "id": 456865,
+        "title": "Project 5",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "url_project": "https://www.google.com",
+        "created_at": "8/18/2023",
+        "updated_at": null,
+        "deleted_at": null
+      }
+    ]
+  }
+}

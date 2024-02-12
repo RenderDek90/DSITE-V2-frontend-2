@@ -1,0 +1,15 @@
+.website-skill-phone {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 12px;
+}
+
+.website-skill > p,
+.website-skill-phone > p {
+  background-color: rgb(63, 0, 105);
+  border-radius: 2em;
+  color: white;
+  font-weight: lighter;
+  padding: 0px 16px;
+  margin: 4px 8px;
+}

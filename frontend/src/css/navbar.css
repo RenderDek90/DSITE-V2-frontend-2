@@ -1,0 +1,41 @@
+/* md:flex flex-row w-100 items-center gap-5 text-white text-center sm:hidden */
+
+@keyframes animate {
+  0% {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.navbar {
+  display: none;
+}
+
+#menu-bar-pop {
+  display: none;
+  animation: animate;
+}
+
+@media only screen and (min-width: 640px) {
+  .navbar {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    gap: 1rem;
+    color: white;
+    text-align: center;
+  }
+
+  .hamburger-menu {
+    display: none;
+  }
+
+  .menu-bar {
+    display: none;
+  }
+}

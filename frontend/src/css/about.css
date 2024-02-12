@@ -1,0 +1,28 @@
+.profile {
+  border-radius: 2em 2em 12px 12px;
+}
+
+.picture-div {
+  border-radius: 2em;
+}
+
+.skill-include {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-include-phone {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 12px;
+}
+
+.skill-include > p,
+.skill-include-phone > p {
+  background-color: rgb(0, 105, 9);
+  border-radius: 2em;
+  color: white;
+  font-weight: lighter;
+  padding: 4px 16px;
+  margin: 8px;
+}
