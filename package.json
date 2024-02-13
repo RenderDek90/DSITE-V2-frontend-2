@@ -1,5 +1,5 @@
 {
-  "homepage": "https://RenderDek90.github.io/DSITE-V2-frontend",
+  "homepage": "https://RenderDek90.github.io/DSITE-V2-2",
   "name": "my-app",
   "version": "0.1.0",
   "proxy": "http://localhost:3000",
@@ -54,6 +54,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2"
   }
