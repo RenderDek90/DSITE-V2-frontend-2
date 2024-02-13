@@ -12,9 +12,9 @@ import TestAPI from './components/TestAPI';
 
 function App() {
   // var { data, isPending, error } = useFetch('http://localhost:3001/api/d-ports');
-  data = '';
-  isPending = false;
-  error = '';
+  var data = '';
+  var isPending = false;
+  var error = '';
 
   return (
     <BrowserRouter>
