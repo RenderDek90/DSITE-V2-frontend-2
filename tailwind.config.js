@@ -10,6 +10,9 @@ module.exports = {
         display: ['Poppins'],
         body: ['"Open Sans"'],
       },
+      backgroundImage: {
+        prof: "url('./images/background-rpof.png')",
+      },
     },
   },
   plugins: [],
