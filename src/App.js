@@ -11,7 +11,7 @@ import TestAPI from './components/TestAPI';
 // const fetcher = () => fetch('https://jsonplaceholder.typicode.com/users').then((res) => res.json());
 
 function App() {
-  var { data, isPending, error } = useFetch('http://localhost:3001/api/d-ports');
+  // var { data, isPending, error } = useFetch('http://localhost:3001/api/d-ports');
   data = '';
   isPending = false;
   error = '';
